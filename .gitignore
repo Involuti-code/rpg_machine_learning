@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+rpg_classifier.pkl
+model_features.pkl
+model_classes.pkl
+
+personagens_rpg.csv
